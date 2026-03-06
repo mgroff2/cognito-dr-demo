@@ -2,4 +2,8 @@ terraform/.terraform/
 terraform/*.tfstate*
 terraform/.terraform.lock.hcl
 terraform/terraform.tfvars
+cdk/node_modules/
+cdk/cdk.out/
+cdk/dist/
+cdk/package-lock.json
 .DS_Store
